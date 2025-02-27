@@ -4,7 +4,7 @@
 This project implements a pipeline that takes an image of an animal and a text description and decides if the animal described in the text is present in the image. The project consists of two main models:
 1. **Named Entity Recognition (NER)** model for extracting animal names from text.
     - A transformer-based NER model is trained to extract animal names from text descriptions.
-    - The model is fine-tuned on a [custom dataset](https://github.com/aywski/winstars-ai-task/blob/main/src/ner/dataset_generator.py) with animal-related entities.
+    - The model is fine-tuned on a [custom dataset](https://github.com/aywski/winstars-ai-task/blob/main/task_2/src/ner/dataset_generator.py) with animal-related entities.
 
 2. **Animal Classification** model for detecting animals in images.
     - An image classification model is trained to classify animals in images.
