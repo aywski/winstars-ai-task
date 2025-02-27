@@ -1,0 +1,7 @@
+task_1/.venv
+task_1/__pycache__
+task_2/.venv
+task_2/src/image_classification/__pycache__
+task_2/src/ner/__pycache__
+task_2/horse.jpg
+WinstarsAIDSInternshipTest2025.pdf

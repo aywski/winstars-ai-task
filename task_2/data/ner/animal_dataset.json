@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "The chiken is sleeping in the sun",
+    "label": "chiken"
+  },
+  {
+    "text": "Look at that elephant over there!",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a dog last night",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "The dog jumped over the fence",
+    "label": "dog"
+  },
+  {
+    "text": "That chiken is very friendly",
+    "label": "chiken"
+  },
+  {
+    "text": "The elephant was running very fast",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is an endangered species",
+    "label": "elephant"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cat is running in the field",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a spider at the zoo",
+    "label": "spider"
+  },
+  {
+    "text": "The sheep made a strange noise",
+    "label": "sheep"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "I am afraid of the chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The sheep is eating its food",
+    "label": "sheep"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "I dreamed about a elephant last night",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is a beautiful animal",
+    "label": "elephant"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "My friend has a pet horse",
+    "label": "horse"
+  },
+  {
+    "text": "Look at that spider over there!",
+    "label": "spider"
+  },
+  {
+    "text": "The horse is an endangered species",
+    "label": "horse"
+  },
+  {
+    "text": "The cat sleeps on the window",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "I read a book about a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is sleeping in the sun",
+    "label": "elephant"
+  },
+  {
+    "text": "I am afraid of the sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The elephant lives in the forest",
+    "label": "elephant"
+  },
+  {
+    "text": "The chiken jumped over the fence",
+    "label": "chiken"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "The squirrel lives in the forest",
+    "label": "squirrel"
+  },
+  {
+    "text": "Scientists discovered a new species of cow",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel has beautiful fur",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "Yesterday I saw a elephant at the zoo",
+    "label": "elephant"
+  },
+  {
+    "text": "That cow is very friendly",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My friend has a pet squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "We visited a farm and saw a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "The horse made a strange noise",
+    "label": "horse"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "Look at that cow over there!",
+    "label": "cow"
+  },
+  {
+    "text": "The spider is sleeping in the sun",
+    "label": "spider"
+  },
+  {
+    "text": "Look at that chiken over there!",
+    "label": "chiken"
+  },
+  {
+    "text": "The horse made a strange noise",
+    "label": "horse"
+  },
+  {
+    "text": "My neighbor's cat is very noisy",
+    "label": "cat"
+  },
+  {
+    "text": "The elephant sleeps on the window",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep is sleeping in the sun",
+    "label": "sheep"
+  },
+  {
+    "text": "I dreamed about a chiken last night",
+    "label": "chiken"
+  },
+  {
+    "text": "The sheep has beautiful fur",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The chiken lives in the forest",
+    "label": "chiken"
+  },
+  {
+    "text": "The dog has beautiful fur",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep is running in the field",
+    "label": "sheep"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "My sister wants to buy a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The cow lives in the forest",
+    "label": "cow"
+  },
+  {
+    "text": "We have a horse at home",
+    "label": "horse"
+  },
+  {
+    "text": "We visited a farm and saw a horse",
+    "label": "horse"
+  },
+  {
+    "text": "My grandmother used to have a horse",
+    "label": "horse"
+  },
+  {
+    "text": "The spider has beautiful fur",
+    "label": "spider"
+  },
+  {
+    "text": "My grandmother used to have a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The squirrel has beautiful fur",
+    "label": "squirrel"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "My sister wants to buy a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cat jumped over the fence",
+    "label": "cat"
+  },
+  {
+    "text": "We have a sheep at home",
+    "label": "sheep"
+  },
+  {
+    "text": "The horse lives in the forest",
+    "label": "horse"
+  },
+  {
+    "text": "Can you see the sheep in the distance?",
+    "label": "sheep"
+  },
+  {
+    "text": "My horse loves to play in the park",
+    "label": "horse"
+  },
+  {
+    "text": "The dog sleeps on the window",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The spider sleeps on the window",
+    "label": "spider"
+  },
+  {
+    "text": "The cat has sharp teeth",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "My cow loves to play in the park",
+    "label": "cow"
+  },
+  {
+    "text": "The spider is eating its food",
+    "label": "spider"
+  },
+  {
+    "text": "We have a spider at home",
+    "label": "spider"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "The chiken has beautiful fur",
+    "label": "chiken"
+  },
+  {
+    "text": "The dog is an endangered species",
+    "label": "dog"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a elephant at the zoo",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse jumped over the fence",
+    "label": "horse"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The elephant is an endangered species",
+    "label": "elephant"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel is a beautiful animal",
+    "label": "squirrel"
+  },
+  {
+    "text": "The chiken is an endangered species",
+    "label": "chiken"
+  },
+  {
+    "text": "My sister wants to buy a cat",
+    "label": "cat"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is running in the field",
+    "label": "elephant"
+  },
+  {
+    "text": "The cat is eating its food",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel lives in the forest",
+    "label": "squirrel"
+  },
+  {
+    "text": "The cow has sharp teeth",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The spider jumped over the fence",
+    "label": "spider"
+  },
+  {
+    "text": "My neighbor's squirrel is very noisy",
+    "label": "squirrel"
+  },
+  {
+    "text": "The horse has beautiful fur",
+    "label": "horse"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "My friend has a pet sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The butterfly jumped over the fence",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "The cow jumped over the fence",
+    "label": "cow"
+  },
+  {
+    "text": "That chiken is very friendly",
+    "label": "chiken"
+  },
+  {
+    "text": "The squirrel is eating its food",
+    "label": "squirrel"
+  },
+  {
+    "text": "The horse lives in the forest",
+    "label": "horse"
+  },
+  {
+    "text": "The dog jumped over the fence",
+    "label": "dog"
+  },
+  {
+    "text": "The spider lives in the forest",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken has sharp teeth",
+    "label": "chiken"
+  },
+  {
+    "text": "My sister wants to buy a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "My friend has a pet butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "I read a book about a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The horse has beautiful fur",
+    "label": "horse"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "The dog made a strange noise",
+    "label": "dog"
+  },
+  {
+    "text": "The cow is running in the field",
+    "label": "cow"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "My neighbor's cow is very noisy",
+    "label": "cow"
+  },
+  {
+    "text": "The sheep was running very fast",
+    "label": "sheep"
+  },
+  {
+    "text": "I am afraid of the sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The cat is running in the field",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "My sister wants to buy a spider",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of dog",
+    "label": "dog"
+  },
+  {
+    "text": "The butterfly is an endangered species",
+    "label": "butterfly"
+  },
+  {
+    "text": "I took a picture of a spider",
+    "label": "spider"
+  },
+  {
+    "text": "Look at that dog over there!",
+    "label": "dog"
+  },
+  {
+    "text": "The cat has sharp teeth",
+    "label": "cat"
+  },
+  {
+    "text": "We have a squirrel at home",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Look at that dog over there!",
+    "label": "dog"
+  },
+  {
+    "text": "A squirrel crossed the road",
+    "label": "squirrel"
+  },
+  {
+    "text": "A horse crossed the road",
+    "label": "horse"
+  },
+  {
+    "text": "That chiken is very friendly",
+    "label": "chiken"
+  },
+  {
+    "text": "I dreamed about a cat last night",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a horse",
+    "label": "horse"
+  },
+  {
+    "text": "The dog has sharp teeth",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the chiken in the distance?",
+    "label": "chiken"
+  },
+  {
+    "text": "Look at that cow over there!",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant is eating its food",
+    "label": "elephant"
+  },
+  {
+    "text": "I took a picture of a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a horse",
+    "label": "horse"
+  },
+  {
+    "text": "The butterfly is eating its food",
+    "label": "butterfly"
+  },
+  {
+    "text": "I am afraid of the dog",
+    "label": "dog"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel sleeps on the window",
+    "label": "squirrel"
+  },
+  {
+    "text": "Can you see the dog in the distance?",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the dog in the distance?",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep is a beautiful animal",
+    "label": "sheep"
+  },
+  {
+    "text": "I am afraid of the horse",
+    "label": "horse"
+  },
+  {
+    "text": "The chiken is running in the field",
+    "label": "chiken"
+  },
+  {
+    "text": "My neighbor's sheep is very noisy",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow jumped over the fence",
+    "label": "cow"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "That cat is very friendly",
+    "label": "cat"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "A dog crossed the road",
+    "label": "dog"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cat is running in the field",
+    "label": "cat"
+  },
+  {
+    "text": "The dog has beautiful fur",
+    "label": "dog"
+  },
+  {
+    "text": "The horse has beautiful fur",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow lives in the forest",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "My grandmother used to have a dog",
+    "label": "dog"
+  },
+  {
+    "text": "That horse is very friendly",
+    "label": "horse"
+  },
+  {
+    "text": "The cat is eating its food",
+    "label": "cat"
+  },
+  {
+    "text": "The spider is an endangered species",
+    "label": "spider"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "My spider loves to play in the park",
+    "label": "spider"
+  },
+  {
+    "text": "A chiken crossed the road",
+    "label": "chiken"
+  },
+  {
+    "text": "Yesterday I saw a butterfly at the zoo",
+    "label": "butterfly"
+  },
+  {
+    "text": "My neighbor's chiken is very noisy",
+    "label": "chiken"
+  },
+  {
+    "text": "The sheep sleeps on the window",
+    "label": "sheep"
+  },
+  {
+    "text": "A dog crossed the road",
+    "label": "dog"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "The cat is sleeping in the sun",
+    "label": "cat"
+  },
+  {
+    "text": "We have a butterfly at home",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The spider is an endangered species",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly is eating its food",
+    "label": "butterfly"
+  },
+  {
+    "text": "Can you see the horse in the distance?",
+    "label": "horse"
+  },
+  {
+    "text": "The cow lives in the forest",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel is eating its food",
+    "label": "squirrel"
+  },
+  {
+    "text": "My sheep loves to play in the park",
+    "label": "sheep"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "The dog is an endangered species",
+    "label": "dog"
+  },
+  {
+    "text": "My grandmother used to have a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken lives in the forest",
+    "label": "chiken"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "A cat crossed the road",
+    "label": "cat"
+  },
+  {
+    "text": "I read a book about a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow is eating its food",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a chiken at the zoo",
+    "label": "chiken"
+  },
+  {
+    "text": "The spider made a strange noise",
+    "label": "spider"
+  },
+  {
+    "text": "Scientists discovered a new species of dog",
+    "label": "dog"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "I took a picture of a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Scientists discovered a new species of butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The horse has sharp teeth",
+    "label": "horse"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a sheep at the zoo",
+    "label": "sheep"
+  },
+  {
+    "text": "We have a dog at home",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "The sheep is running in the field",
+    "label": "sheep"
+  },
+  {
+    "text": "My squirrel loves to play in the park",
+    "label": "squirrel"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow lives in the forest",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly is sleeping in the sun",
+    "label": "butterfly"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "The dog jumped over the fence",
+    "label": "dog"
+  },
+  {
+    "text": "I am afraid of the chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The butterfly made a strange noise",
+    "label": "butterfly"
+  },
+  {
+    "text": "The spider is running in the field",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "That cow is very friendly",
+    "label": "cow"
+  },
+  {
+    "text": "My grandmother used to have a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The dog has beautiful fur",
+    "label": "dog"
+  },
+  {
+    "text": "My sister wants to buy a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My neighbor's sheep is very noisy",
+    "label": "sheep"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse is eating its food",
+    "label": "horse"
+  },
+  {
+    "text": "The chiken lives in the forest",
+    "label": "chiken"
+  },
+  {
+    "text": "I dreamed about a squirrel last night",
+    "label": "squirrel"
+  },
+  {
+    "text": "The butterfly is sleeping in the sun",
+    "label": "butterfly"
+  },
+  {
+    "text": "The dog lives in the forest",
+    "label": "dog"
+  },
+  {
+    "text": "The cow is running in the field",
+    "label": "cow"
+  },
+  {
+    "text": "I took a picture of a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The spider made a strange noise",
+    "label": "spider"
+  },
+  {
+    "text": "That horse is very friendly",
+    "label": "horse"
+  },
+  {
+    "text": "The dog is eating its food",
+    "label": "dog"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cat has beautiful fur",
+    "label": "cat"
+  },
+  {
+    "text": "That cat is very friendly",
+    "label": "cat"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's butterfly is very noisy",
+    "label": "butterfly"
+  },
+  {
+    "text": "I read a book about a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "We have a elephant at home",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse jumped over the fence",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant is sleeping in the sun",
+    "label": "elephant"
+  },
+  {
+    "text": "I read a book about a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant jumped over the fence",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "We have a horse at home",
+    "label": "horse"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "A butterfly crossed the road",
+    "label": "butterfly"
+  },
+  {
+    "text": "The dog is eating its food",
+    "label": "dog"
+  },
+  {
+    "text": "My friend has a pet sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The chiken made a strange noise",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow sleeps on the window",
+    "label": "cow"
+  },
+  {
+    "text": "The chiken is an endangered species",
+    "label": "chiken"
+  },
+  {
+    "text": "The butterfly made a strange noise",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a horse",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a horse",
+    "label": "horse"
+  },
+  {
+    "text": "The butterfly made a strange noise",
+    "label": "butterfly"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a cat last night",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's butterfly is very noisy",
+    "label": "butterfly"
+  },
+  {
+    "text": "The sheep is sleeping in the sun",
+    "label": "sheep"
+  },
+  {
+    "text": "My dog loves to play in the park",
+    "label": "dog"
+  },
+  {
+    "text": "The chiken is an endangered species",
+    "label": "chiken"
+  },
+  {
+    "text": "A horse crossed the road",
+    "label": "horse"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "The chiken made a strange noise",
+    "label": "chiken"
+  },
+  {
+    "text": "The sheep has sharp teeth",
+    "label": "sheep"
+  },
+  {
+    "text": "The horse is a beautiful animal",
+    "label": "horse"
+  },
+  {
+    "text": "Yesterday I saw a squirrel at the zoo",
+    "label": "squirrel"
+  },
+  {
+    "text": "Can you see the squirrel in the distance?",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant lives in the forest",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow has sharp teeth",
+    "label": "cow"
+  },
+  {
+    "text": "My grandmother used to have a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The chiken is sleeping in the sun",
+    "label": "chiken"
+  },
+  {
+    "text": "The squirrel is an endangered species",
+    "label": "squirrel"
+  },
+  {
+    "text": "I go to walk with my cow",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant was running very fast",
+    "label": "elephant"
+  },
+  {
+    "text": "The chiken made a strange noise",
+    "label": "chiken"
+  },
+  {
+    "text": "A dog crossed the road",
+    "label": "dog"
+  },
+  {
+    "text": "I read a book about a horse",
+    "label": "horse"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "We have a elephant at home",
+    "label": "elephant"
+  },
+  {
+    "text": "My neighbor's cat is very noisy",
+    "label": "cat"
+  },
+  {
+    "text": "I took a picture of a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "We visited a farm and saw a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cat is an endangered species",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly jumped over the fence",
+    "label": "butterfly"
+  },
+  {
+    "text": "I read a book about a spider",
+    "label": "spider"
+  },
+  {
+    "text": "My horse loves to play in the park",
+    "label": "horse"
+  },
+  {
+    "text": "I dreamed about a elephant last night",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "I am afraid of the butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow lives in the forest",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "That spider is very friendly",
+    "label": "spider"
+  },
+  {
+    "text": "I took a picture of a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken lives in the forest",
+    "label": "chiken"
+  },
+  {
+    "text": "The cat is running in the field",
+    "label": "cat"
+  },
+  {
+    "text": "Look at that elephant over there!",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of horse",
+    "label": "horse"
+  },
+  {
+    "text": "That horse is very friendly",
+    "label": "horse"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "The dog sleeps on the window",
+    "label": "dog"
+  },
+  {
+    "text": "I read a book about a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The chiken is eating its food",
+    "label": "chiken"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "My horse loves to play in the park",
+    "label": "horse"
+  },
+  {
+    "text": "I dreamed about a dog last night",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel is running in the field",
+    "label": "squirrel"
+  },
+  {
+    "text": "The sheep is an endangered species",
+    "label": "sheep"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "My butterfly loves to play in the park",
+    "label": "butterfly"
+  },
+  {
+    "text": "My dog loves to play in the park",
+    "label": "dog"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's squirrel is very noisy",
+    "label": "squirrel"
+  },
+  {
+    "text": "I am afraid of the horse",
+    "label": "horse"
+  },
+  {
+    "text": "The cow has sharp teeth",
+    "label": "cow"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a spider",
+    "label": "spider"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of cow",
+    "label": "cow"
+  },
+  {
+    "text": "My chiken loves to play in the park",
+    "label": "chiken"
+  },
+  {
+    "text": "A cat crossed the road",
+    "label": "cat"
+  },
+  {
+    "text": "The dog sleeps on the window",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel jumped over the fence",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a horse",
+    "label": "horse"
+  },
+  {
+    "text": "Look at that chiken over there!",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "The dog is eating its food",
+    "label": "dog"
+  },
+  {
+    "text": "The dog sleeps on the window",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "The cat lives in the forest",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a spider last night",
+    "label": "spider"
+  },
+  {
+    "text": "I am afraid of the spider",
+    "label": "spider"
+  },
+  {
+    "text": "We visited a farm and saw a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The elephant sleeps on the window",
+    "label": "elephant"
+  },
+  {
+    "text": "I am afraid of the dog",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "The horse has sharp teeth",
+    "label": "horse"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "The horse jumped over the fence",
+    "label": "horse"
+  },
+  {
+    "text": "My grandmother used to have a horse",
+    "label": "horse"
+  },
+  {
+    "text": "Scientists discovered a new species of spider",
+    "label": "spider"
+  },
+  {
+    "text": "The spider has sharp teeth",
+    "label": "spider"
+  },
+  {
+    "text": "The sheep has sharp teeth",
+    "label": "sheep"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "We have a cow at home",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant is a beautiful animal",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a cow last night",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "We visited a farm and saw a dog",
+    "label": "dog"
+  },
+  {
+    "text": "A butterfly crossed the road",
+    "label": "butterfly"
+  },
+  {
+    "text": "The spider has beautiful fur",
+    "label": "spider"
+  },
+  {
+    "text": "The horse is sleeping in the sun",
+    "label": "horse"
+  },
+  {
+    "text": "The chiken has beautiful fur",
+    "label": "chiken"
+  },
+  {
+    "text": "The butterfly is a beautiful animal",
+    "label": "butterfly"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "The spider made a strange noise",
+    "label": "spider"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cat is a beautiful animal",
+    "label": "cat"
+  },
+  {
+    "text": "My friend has a pet elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The butterfly was running very fast",
+    "label": "butterfly"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of dog",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant is sleeping in the sun",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "I am afraid of the cat",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's dog is very noisy",
+    "label": "dog"
+  },
+  {
+    "text": "I dreamed about a elephant last night",
+    "label": "elephant"
+  },
+  {
+    "text": "My grandmother used to have a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The squirrel jumped over the fence",
+    "label": "squirrel"
+  },
+  {
+    "text": "The sheep has sharp teeth",
+    "label": "sheep"
+  },
+  {
+    "text": "I go to walk with my cat",
+    "label": "cat"
+  },
+  {
+    "text": "Can you see the elephant in the distance?",
+    "label": "elephant"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The spider has sharp teeth",
+    "label": "spider"
+  },
+  {
+    "text": "That dog is very friendly",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the horse in the distance?",
+    "label": "horse"
+  },
+  {
+    "text": "My sister wants to buy a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet horse",
+    "label": "horse"
+  },
+  {
+    "text": "My grandmother used to have a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "My butterfly loves to play in the park",
+    "label": "butterfly"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "The spider has sharp teeth",
+    "label": "spider"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep is a beautiful animal",
+    "label": "sheep"
+  },
+  {
+    "text": "The elephant is a beautiful animal",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow is running in the field",
+    "label": "cow"
+  },
+  {
+    "text": "My grandmother used to have a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "My chiken loves to play in the park",
+    "label": "chiken"
+  },
+  {
+    "text": "I am afraid of the sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The dog jumped over the fence",
+    "label": "dog"
+  },
+  {
+    "text": "I dreamed about a sheep last night",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep is eating its food",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider was running very fast",
+    "label": "spider"
+  },
+  {
+    "text": "Yesterday I saw a chiken at the zoo",
+    "label": "chiken"
+  },
+  {
+    "text": "The horse jumped over the fence",
+    "label": "horse"
+  },
+  {
+    "text": "That sheep is very friendly",
+    "label": "sheep"
+  },
+  {
+    "text": "Scientists discovered a new species of squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "Look at that dog over there!",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel is eating its food",
+    "label": "squirrel"
+  },
+  {
+    "text": "We have a cow at home",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly is eating its food",
+    "label": "butterfly"
+  },
+  {
+    "text": "That cat is very friendly",
+    "label": "cat"
+  },
+  {
+    "text": "The spider is eating its food",
+    "label": "spider"
+  },
+  {
+    "text": "My grandmother used to have a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "The spider is running in the field",
+    "label": "spider"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a dog at the zoo",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a dog at the zoo",
+    "label": "dog"
+  },
+  {
+    "text": "My grandmother used to have a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "A cat crossed the road",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel has beautiful fur",
+    "label": "squirrel"
+  },
+  {
+    "text": "I took a picture of a cow",
+    "label": "cow"
+  },
+  {
+    "text": "My grandmother used to have a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The horse lives in the forest",
+    "label": "horse"
+  },
+  {
+    "text": "The squirrel made a strange noise",
+    "label": "squirrel"
+  },
+  {
+    "text": "A chiken crossed the road",
+    "label": "chiken"
+  },
+  {
+    "text": "The sheep was running very fast",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep is a beautiful animal",
+    "label": "sheep"
+  },
+  {
+    "text": "The dog is a beautiful animal",
+    "label": "dog"
+  },
+  {
+    "text": "I dreamed about a squirrel last night",
+    "label": "squirrel"
+  },
+  {
+    "text": "The elephant lives in the forest",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "I am afraid of the horse",
+    "label": "horse"
+  },
+  {
+    "text": "The cow made a strange noise",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a butterfly at the zoo",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The sheep jumped over the fence",
+    "label": "sheep"
+  },
+  {
+    "text": "I read a book about a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The cat has beautiful fur",
+    "label": "cat"
+  },
+  {
+    "text": "Can you see the dog in the distance?",
+    "label": "dog"
+  },
+  {
+    "text": "The horse sleeps on the window",
+    "label": "horse"
+  },
+  {
+    "text": "I am afraid of the spider",
+    "label": "spider"
+  },
+  {
+    "text": "That cow is very friendly",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "A cow crossed the road",
+    "label": "cow"
+  },
+  {
+    "text": "The cow has sharp teeth",
+    "label": "cow"
+  },
+  {
+    "text": "We have a sheep at home",
+    "label": "sheep"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "Scientists discovered a new species of squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "We visited a farm and saw a horse",
+    "label": "horse"
+  },
+  {
+    "text": "I took a picture of a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep is running in the field",
+    "label": "sheep"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "We have a squirrel at home",
+    "label": "squirrel"
+  },
+  {
+    "text": "I took a picture of a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The chiken is an endangered species",
+    "label": "chiken"
+  },
+  {
+    "text": "Can you see the sheep in the distance?",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "Look at that sheep over there!",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "My sheep loves to play in the park",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly has beautiful fur",
+    "label": "butterfly"
+  },
+  {
+    "text": "We have a chiken at home",
+    "label": "chiken"
+  },
+  {
+    "text": "I read a book about a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse made a strange noise",
+    "label": "horse"
+  },
+  {
+    "text": "The cow has sharp teeth",
+    "label": "cow"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "The spider jumped over the fence",
+    "label": "spider"
+  },
+  {
+    "text": "The cat is a beautiful animal",
+    "label": "cat"
+  },
+  {
+    "text": "The horse was running very fast",
+    "label": "horse"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "I dreamed about a horse last night",
+    "label": "horse"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "A squirrel crossed the road",
+    "label": "squirrel"
+  },
+  {
+    "text": "I go to walk with my horse",
+    "label": "horse"
+  },
+  {
+    "text": "The chiken is a beautiful animal",
+    "label": "chiken"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "That spider is very friendly",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The squirrel has sharp teeth",
+    "label": "squirrel"
+  },
+  {
+    "text": "The butterfly is an endangered species",
+    "label": "butterfly"
+  },
+  {
+    "text": "That spider is very friendly",
+    "label": "spider"
+  },
+  {
+    "text": "My squirrel loves to play in the park",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep jumped over the fence",
+    "label": "sheep"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cat is a beautiful animal",
+    "label": "cat"
+  },
+  {
+    "text": "The sheep jumped over the fence",
+    "label": "sheep"
+  },
+  {
+    "text": "The elephant jumped over the fence",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is running in the field",
+    "label": "elephant"
+  },
+  {
+    "text": "Look at that cat over there!",
+    "label": "cat"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The elephant is a beautiful animal",
+    "label": "elephant"
+  },
+  {
+    "text": "The cat sleeps on the window",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's sheep is very noisy",
+    "label": "sheep"
+  },
+  {
+    "text": "I dreamed about a elephant last night",
+    "label": "elephant"
+  },
+  {
+    "text": "My sheep loves to play in the park",
+    "label": "sheep"
+  },
+  {
+    "text": "I go to walk with my squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The butterfly jumped over the fence",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cat is eating its food",
+    "label": "cat"
+  },
+  {
+    "text": "The dog has sharp teeth",
+    "label": "dog"
+  },
+  {
+    "text": "The dog has sharp teeth",
+    "label": "dog"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "Look at that cat over there!",
+    "label": "cat"
+  },
+  {
+    "text": "The sheep has sharp teeth",
+    "label": "sheep"
+  },
+  {
+    "text": "My butterfly loves to play in the park",
+    "label": "butterfly"
+  },
+  {
+    "text": "Yesterday I saw a horse at the zoo",
+    "label": "horse"
+  },
+  {
+    "text": "The sheep is running in the field",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "The cat is sleeping in the sun",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a dog last night",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep jumped over the fence",
+    "label": "sheep"
+  },
+  {
+    "text": "My sister wants to buy a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant lives in the forest",
+    "label": "elephant"
+  },
+  {
+    "text": "We visited a farm and saw a spider",
+    "label": "spider"
+  },
+  {
+    "text": "That sheep is very friendly",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "The horse lives in the forest",
+    "label": "horse"
+  },
+  {
+    "text": "The sheep was running very fast",
+    "label": "sheep"
+  },
+  {
+    "text": "The squirrel made a strange noise",
+    "label": "squirrel"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "The horse made a strange noise",
+    "label": "horse"
+  },
+  {
+    "text": "The horse is sleeping in the sun",
+    "label": "horse"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The squirrel is running in the field",
+    "label": "squirrel"
+  },
+  {
+    "text": "Yesterday I saw a spider at the zoo",
+    "label": "spider"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "The cow sleeps on the window",
+    "label": "cow"
+  },
+  {
+    "text": "We have a sheep at home",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly made a strange noise",
+    "label": "butterfly"
+  },
+  {
+    "text": "My sister wants to buy a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "I am afraid of the dog",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of dog",
+    "label": "dog"
+  },
+  {
+    "text": "The cat made a strange noise",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel lives in the forest",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The dog is a beautiful animal",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a elephant at the zoo",
+    "label": "elephant"
+  },
+  {
+    "text": "I read a book about a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of spider",
+    "label": "spider"
+  },
+  {
+    "text": "The butterfly is a beautiful animal",
+    "label": "butterfly"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a chiken last night",
+    "label": "chiken"
+  },
+  {
+    "text": "I am afraid of the chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "The cat lives in the forest",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's butterfly is very noisy",
+    "label": "butterfly"
+  },
+  {
+    "text": "My sister wants to buy a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The dog is an endangered species",
+    "label": "dog"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a squirrel last night",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "Look at that cat over there!",
+    "label": "cat"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my cow",
+    "label": "cow"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "I am afraid of the chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cat is a beautiful animal",
+    "label": "cat"
+  },
+  {
+    "text": "The butterfly made a strange noise",
+    "label": "butterfly"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "We visited a farm and saw a dog",
+    "label": "dog"
+  },
+  {
+    "text": "I am afraid of the cow",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly jumped over the fence",
+    "label": "butterfly"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My elephant loves to play in the park",
+    "label": "elephant"
+  },
+  {
+    "text": "My sister wants to buy a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a chiken last night",
+    "label": "chiken"
+  },
+  {
+    "text": "The spider is running in the field",
+    "label": "spider"
+  },
+  {
+    "text": "Scientists discovered a new species of cow",
+    "label": "cow"
+  },
+  {
+    "text": "The chiken jumped over the fence",
+    "label": "chiken"
+  },
+  {
+    "text": "The squirrel jumped over the fence",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The horse is an endangered species",
+    "label": "horse"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "I go to walk with my spider",
+    "label": "spider"
+  },
+  {
+    "text": "I took a picture of a spider",
+    "label": "spider"
+  },
+  {
+    "text": "My grandmother used to have a cow",
+    "label": "cow"
+  },
+  {
+    "text": "My sister wants to buy a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "Look at that sheep over there!",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "Look at that butterfly over there!",
+    "label": "butterfly"
+  },
+  {
+    "text": "I dreamed about a dog last night",
+    "label": "dog"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "The cow jumped over the fence",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly is sleeping in the sun",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my dog",
+    "label": "dog"
+  },
+  {
+    "text": "The dog is eating its food",
+    "label": "dog"
+  },
+  {
+    "text": "I dreamed about a sheep last night",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Yesterday I saw a butterfly at the zoo",
+    "label": "butterfly"
+  },
+  {
+    "text": "Scientists discovered a new species of cow",
+    "label": "cow"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel is eating its food",
+    "label": "squirrel"
+  },
+  {
+    "text": "The dog is an endangered species",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep made a strange noise",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly has beautiful fur",
+    "label": "butterfly"
+  },
+  {
+    "text": "I took a picture of a cat",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a dog",
+    "label": "dog"
+  },
+  {
+    "text": "A spider crossed the road",
+    "label": "spider"
+  },
+  {
+    "text": "The horse was running very fast",
+    "label": "horse"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The spider has sharp teeth",
+    "label": "spider"
+  },
+  {
+    "text": "Look at that elephant over there!",
+    "label": "elephant"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Look at that elephant over there!",
+    "label": "elephant"
+  },
+  {
+    "text": "That horse is very friendly",
+    "label": "horse"
+  },
+  {
+    "text": "I took a picture of a spider",
+    "label": "spider"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "I dreamed about a cow last night",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my dog",
+    "label": "dog"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "I go to walk with my elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "My neighbor's spider is very noisy",
+    "label": "spider"
+  },
+  {
+    "text": "I took a picture of a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "We have a spider at home",
+    "label": "spider"
+  },
+  {
+    "text": "Scientists discovered a new species of sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My friend has a pet horse",
+    "label": "horse"
+  },
+  {
+    "text": "Scientists discovered a new species of elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Look at that dog over there!",
+    "label": "dog"
+  },
+  {
+    "text": "I read a book about a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My neighbor's sheep is very noisy",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep was running very fast",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The sheep is eating its food",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider is running in the field",
+    "label": "spider"
+  },
+  {
+    "text": "The horse has beautiful fur",
+    "label": "horse"
+  },
+  {
+    "text": "I dreamed about a butterfly last night",
+    "label": "butterfly"
+  },
+  {
+    "text": "My friend has a pet butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "Scientists discovered a new species of squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "Scientists discovered a new species of chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "That cow is very friendly",
+    "label": "cow"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The spider is eating its food",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken has beautiful fur",
+    "label": "chiken"
+  },
+  {
+    "text": "Yesterday I saw a chiken at the zoo",
+    "label": "chiken"
+  },
+  {
+    "text": "I dreamed about a squirrel last night",
+    "label": "squirrel"
+  },
+  {
+    "text": "A cat crossed the road",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "The horse is eating its food",
+    "label": "horse"
+  },
+  {
+    "text": "I go to walk with my cow",
+    "label": "cow"
+  },
+  {
+    "text": "The spider jumped over the fence",
+    "label": "spider"
+  },
+  {
+    "text": "The butterfly has beautiful fur",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow made a strange noise",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly jumped over the fence",
+    "label": "butterfly"
+  },
+  {
+    "text": "The squirrel sleeps on the window",
+    "label": "squirrel"
+  },
+  {
+    "text": "Scientists discovered a new species of cat",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a spider last night",
+    "label": "spider"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a spider",
+    "label": "spider"
+  },
+  {
+    "text": "I dreamed about a cat last night",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "A spider crossed the road",
+    "label": "spider"
+  },
+  {
+    "text": "Can you see the butterfly in the distance?",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a horse",
+    "label": "horse"
+  },
+  {
+    "text": "I took a picture of a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "A sheep crossed the road",
+    "label": "sheep"
+  },
+  {
+    "text": "Yesterday I saw a squirrel at the zoo",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider lives in the forest",
+    "label": "spider"
+  },
+  {
+    "text": "The cat was running very fast",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse has beautiful fur",
+    "label": "horse"
+  },
+  {
+    "text": "We visited a farm and saw a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The dog jumped over the fence",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cow is running in the field",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "We visited a farm and saw a cat",
+    "label": "cat"
+  },
+  {
+    "text": "That dog is very friendly",
+    "label": "dog"
+  },
+  {
+    "text": "The cow has beautiful fur",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel made a strange noise",
+    "label": "squirrel"
+  },
+  {
+    "text": "We have a spider at home",
+    "label": "spider"
+  },
+  {
+    "text": "The butterfly sleeps on the window",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cat jumped over the fence",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep is a beautiful animal",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider has beautiful fur",
+    "label": "spider"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "I am afraid of the spider",
+    "label": "spider"
+  },
+  {
+    "text": "I am afraid of the butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "The cat is running in the field",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a horse last night",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a spider",
+    "label": "spider"
+  },
+  {
+    "text": "The squirrel is running in the field",
+    "label": "squirrel"
+  },
+  {
+    "text": "My sister wants to buy a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The sheep jumped over the fence",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow jumped over the fence",
+    "label": "cow"
+  },
+  {
+    "text": "My butterfly loves to play in the park",
+    "label": "butterfly"
+  },
+  {
+    "text": "The chiken has beautiful fur",
+    "label": "chiken"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "The dog made a strange noise",
+    "label": "dog"
+  },
+  {
+    "text": "My grandmother used to have a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Yesterday I saw a dog at the zoo",
+    "label": "dog"
+  },
+  {
+    "text": "I am afraid of the chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "I took a picture of a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "We have a elephant at home",
+    "label": "elephant"
+  },
+  {
+    "text": "My sheep loves to play in the park",
+    "label": "sheep"
+  },
+  {
+    "text": "Can you see the squirrel in the distance?",
+    "label": "squirrel"
+  },
+  {
+    "text": "That cow is very friendly",
+    "label": "cow"
+  },
+  {
+    "text": "Look at that squirrel over there!",
+    "label": "squirrel"
+  },
+  {
+    "text": "I am afraid of the sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider is a beautiful animal",
+    "label": "spider"
+  },
+  {
+    "text": "A elephant crossed the road",
+    "label": "elephant"
+  },
+  {
+    "text": "My friend has a pet horse",
+    "label": "horse"
+  },
+  {
+    "text": "I dreamed about a cat last night",
+    "label": "cat"
+  },
+  {
+    "text": "The squirrel is a beautiful animal",
+    "label": "squirrel"
+  },
+  {
+    "text": "My neighbor's spider is very noisy",
+    "label": "spider"
+  },
+  {
+    "text": "The spider was running very fast",
+    "label": "spider"
+  },
+  {
+    "text": "The cow has beautiful fur",
+    "label": "cow"
+  },
+  {
+    "text": "The horse is running in the field",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The spider has beautiful fur",
+    "label": "spider"
+  },
+  {
+    "text": "My neighbor's chiken is very noisy",
+    "label": "chiken"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "We have a cat at home",
+    "label": "cat"
+  },
+  {
+    "text": "A chiken crossed the road",
+    "label": "chiken"
+  },
+  {
+    "text": "My cat loves to play in the park",
+    "label": "cat"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "The sheep is eating its food",
+    "label": "sheep"
+  },
+  {
+    "text": "Can you see the spider in the distance?",
+    "label": "spider"
+  },
+  {
+    "text": "I am afraid of the spider",
+    "label": "spider"
+  },
+  {
+    "text": "The cat is sleeping in the sun",
+    "label": "cat"
+  },
+  {
+    "text": "My friend has a pet horse",
+    "label": "horse"
+  },
+  {
+    "text": "The elephant jumped over the fence",
+    "label": "elephant"
+  },
+  {
+    "text": "I go to walk with my squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "A butterfly crossed the road",
+    "label": "butterfly"
+  },
+  {
+    "text": "I dreamed about a sheep last night",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "I am afraid of the cat",
+    "label": "cat"
+  },
+  {
+    "text": "The sheep is eating its food",
+    "label": "sheep"
+  },
+  {
+    "text": "The spider jumped over the fence",
+    "label": "spider"
+  },
+  {
+    "text": "The butterfly is running in the field",
+    "label": "butterfly"
+  },
+  {
+    "text": "My friend has a pet dog",
+    "label": "dog"
+  },
+  {
+    "text": "My grandmother used to have a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The sheep sleeps on the window",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "The spider jumped over the fence",
+    "label": "spider"
+  },
+  {
+    "text": "The dog lives in the forest",
+    "label": "dog"
+  },
+  {
+    "text": "Yesterday I saw a cow at the zoo",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel is running in the field",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "I took a picture of a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "I am afraid of the elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The chiken is eating its food",
+    "label": "chiken"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "We visited a farm and saw a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The butterfly was running very fast",
+    "label": "butterfly"
+  },
+  {
+    "text": "My sister wants to buy a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The elephant jumped over the fence",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant is eating its food",
+    "label": "elephant"
+  },
+  {
+    "text": "My grandmother used to have a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cow is a beautiful animal",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a cow",
+    "label": "cow"
+  },
+  {
+    "text": "My sister wants to buy a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow jumped over the fence",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "A squirrel crossed the road",
+    "label": "squirrel"
+  },
+  {
+    "text": "The horse sleeps on the window",
+    "label": "horse"
+  },
+  {
+    "text": "The horse is eating its food",
+    "label": "horse"
+  },
+  {
+    "text": "The sheep is sleeping in the sun",
+    "label": "sheep"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a cat at the zoo",
+    "label": "cat"
+  },
+  {
+    "text": "The elephant jumped over the fence",
+    "label": "elephant"
+  },
+  {
+    "text": "Can you see the cow in the distance?",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel lives in the forest",
+    "label": "squirrel"
+  },
+  {
+    "text": "We visited a farm and saw a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The butterfly has beautiful fur",
+    "label": "butterfly"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my spider",
+    "label": "spider"
+  },
+  {
+    "text": "The dog is a beautiful animal",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "The spider has sharp teeth",
+    "label": "spider"
+  },
+  {
+    "text": "Look at that elephant over there!",
+    "label": "elephant"
+  },
+  {
+    "text": "The squirrel is sleeping in the sun",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "Look at that cat over there!",
+    "label": "cat"
+  },
+  {
+    "text": "I read a book about a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "My grandmother used to have a butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "I dreamed about a cat last night",
+    "label": "cat"
+  },
+  {
+    "text": "Can you see the butterfly in the distance?",
+    "label": "butterfly"
+  },
+  {
+    "text": "The horse is eating its food",
+    "label": "horse"
+  },
+  {
+    "text": "The spider lives in the forest",
+    "label": "spider"
+  },
+  {
+    "text": "Yesterday I saw a squirrel at the zoo",
+    "label": "squirrel"
+  },
+  {
+    "text": "Scientists discovered a new species of butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The butterfly was running very fast",
+    "label": "butterfly"
+  },
+  {
+    "text": "The sheep is an endangered species",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep lives in the forest",
+    "label": "sheep"
+  },
+  {
+    "text": "The cat is eating its food",
+    "label": "cat"
+  },
+  {
+    "text": "My grandmother used to have a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The dog made a strange noise",
+    "label": "dog"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow is sleeping in the sun",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant is sleeping in the sun",
+    "label": "elephant"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "The horse is sleeping in the sun",
+    "label": "horse"
+  },
+  {
+    "text": "The dog is a beautiful animal",
+    "label": "dog"
+  },
+  {
+    "text": "I go to walk with my dog",
+    "label": "dog"
+  },
+  {
+    "text": "We have a dog at home",
+    "label": "dog"
+  },
+  {
+    "text": "The spider is a beautiful animal",
+    "label": "spider"
+  },
+  {
+    "text": "The butterfly is eating its food",
+    "label": "butterfly"
+  },
+  {
+    "text": "The butterfly is running in the field",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a horse",
+    "label": "horse"
+  },
+  {
+    "text": "The sheep has beautiful fur",
+    "label": "sheep"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "I go to walk with my chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow is an endangered species",
+    "label": "cow"
+  },
+  {
+    "text": "The horse sleeps on the window",
+    "label": "horse"
+  },
+  {
+    "text": "The cat is sleeping in the sun",
+    "label": "cat"
+  },
+  {
+    "text": "We visited a farm and saw a spider",
+    "label": "spider"
+  },
+  {
+    "text": "Yesterday I saw a spider at the zoo",
+    "label": "spider"
+  },
+  {
+    "text": "The spider lives in the forest",
+    "label": "spider"
+  },
+  {
+    "text": "The chiken is sleeping in the sun",
+    "label": "chiken"
+  },
+  {
+    "text": "I took a picture of a cow",
+    "label": "cow"
+  },
+  {
+    "text": "We visited a farm and saw a spider",
+    "label": "spider"
+  },
+  {
+    "text": "Can you see the butterfly in the distance?",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my cow",
+    "label": "cow"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "The elephant is eating its food",
+    "label": "elephant"
+  },
+  {
+    "text": "The squirrel was running very fast",
+    "label": "squirrel"
+  },
+  {
+    "text": "My squirrel loves to play in the park",
+    "label": "squirrel"
+  },
+  {
+    "text": "The chiken made a strange noise",
+    "label": "chiken"
+  },
+  {
+    "text": "A chiken crossed the road",
+    "label": "chiken"
+  },
+  {
+    "text": "Yesterday I saw a horse at the zoo",
+    "label": "horse"
+  },
+  {
+    "text": "I dreamed about a horse last night",
+    "label": "horse"
+  },
+  {
+    "text": "The dog has sharp teeth",
+    "label": "dog"
+  },
+  {
+    "text": "I dreamed about a chiken last night",
+    "label": "chiken"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "The dog is an endangered species",
+    "label": "dog"
+  },
+  {
+    "text": "The butterfly was running very fast",
+    "label": "butterfly"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "The butterfly has sharp teeth",
+    "label": "butterfly"
+  },
+  {
+    "text": "That horse is very friendly",
+    "label": "horse"
+  },
+  {
+    "text": "The cat has sharp teeth",
+    "label": "cat"
+  },
+  {
+    "text": "My neighbor's horse is very noisy",
+    "label": "horse"
+  },
+  {
+    "text": "The spider is an endangered species",
+    "label": "spider"
+  },
+  {
+    "text": "My chiken loves to play in the park",
+    "label": "chiken"
+  },
+  {
+    "text": "I go to walk with my elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "My friend has a pet cow",
+    "label": "cow"
+  },
+  {
+    "text": "The squirrel lives in the forest",
+    "label": "squirrel"
+  },
+  {
+    "text": "Yesterday I saw a elephant at the zoo",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "I go to walk with my spider",
+    "label": "spider"
+  },
+  {
+    "text": "The spider was running very fast",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "I read a book about a cat",
+    "label": "cat"
+  },
+  {
+    "text": "Can you see the cow in the distance?",
+    "label": "cow"
+  },
+  {
+    "text": "Yesterday I saw a spider at the zoo",
+    "label": "spider"
+  },
+  {
+    "text": "I read a book about a sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "Can you see the squirrel in the distance?",
+    "label": "squirrel"
+  },
+  {
+    "text": "I go to walk with my butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "I go to walk with my dog",
+    "label": "dog"
+  },
+  {
+    "text": "My squirrel loves to play in the park",
+    "label": "squirrel"
+  },
+  {
+    "text": "My grandmother used to have a dog",
+    "label": "dog"
+  },
+  {
+    "text": "My chiken loves to play in the park",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow was running very fast",
+    "label": "cow"
+  },
+  {
+    "text": "My cow loves to play in the park",
+    "label": "cow"
+  },
+  {
+    "text": "My sister wants to buy a chiken",
+    "label": "chiken"
+  },
+  {
+    "text": "The cow sleeps on the window",
+    "label": "cow"
+  },
+  {
+    "text": "My friend has a pet dog",
+    "label": "dog"
+  },
+  {
+    "text": "My friend has a pet cat",
+    "label": "cat"
+  },
+  {
+    "text": "The cat sleeps on the window",
+    "label": "cat"
+  },
+  {
+    "text": "I read a book about a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "I read a book about a cow",
+    "label": "cow"
+  },
+  {
+    "text": "Scientists discovered a new species of horse",
+    "label": "horse"
+  },
+  {
+    "text": "I go to walk with my butterfly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow sleeps on the window",
+    "label": "cow"
+  },
+  {
+    "text": "The dog is a beautiful animal",
+    "label": "dog"
+  },
+  {
+    "text": "The dog is running in the field",
+    "label": "dog"
+  },
+  {
+    "text": "Can you see the sheep in the distance?",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep sleeps on the window",
+    "label": "sheep"
+  },
+  {
+    "text": "The chiken is eating its food",
+    "label": "chiken"
+  },
+  {
+    "text": "I took a picture of a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The cat made a strange noise",
+    "label": "cat"
+  },
+  {
+    "text": "I dreamed about a squirrel last night",
+    "label": "squirrel"
+  },
+  {
+    "text": "Yesterday I saw a chiken at the zoo",
+    "label": "chiken"
+  },
+  {
+    "text": "I am afraid of the cow",
+    "label": "cow"
+  },
+  {
+    "text": "Can you see the elephant in the distance?",
+    "label": "elephant"
+  },
+  {
+    "text": "I dreamed about a dog last night",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep has sharp teeth",
+    "label": "sheep"
+  },
+  {
+    "text": "I read a book about a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The elephant lives in the forest",
+    "label": "elephant"
+  },
+  {
+    "text": "Can you see the butterfly in the distance?",
+    "label": "butterfly"
+  },
+  {
+    "text": "We have a elephant at home",
+    "label": "elephant"
+  },
+  {
+    "text": "The elephant was running very fast",
+    "label": "elephant"
+  },
+  {
+    "text": "The chiken is running in the field",
+    "label": "chiken"
+  },
+  {
+    "text": "The spider has beautiful fur",
+    "label": "spider"
+  },
+  {
+    "text": "The horse is a beautiful animal",
+    "label": "horse"
+  },
+  {
+    "text": "The dog lives in the forest",
+    "label": "dog"
+  },
+  {
+    "text": "The chiken was running very fast",
+    "label": "chiken"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "Can you see the cat in the distance?",
+    "label": "cat"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "My friend has a pet sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "We have a dog at home",
+    "label": "dog"
+  },
+  {
+    "text": "The cat is a beautiful animal",
+    "label": "cat"
+  },
+  {
+    "text": "The cat is eating its food",
+    "label": "cat"
+  },
+  {
+    "text": "That butterfly is very friendly",
+    "label": "butterfly"
+  },
+  {
+    "text": "The elephant sleeps on the window",
+    "label": "elephant"
+  },
+  {
+    "text": "My grandmother used to have a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The horse is sleeping in the sun",
+    "label": "horse"
+  },
+  {
+    "text": "I read a book about a horse",
+    "label": "horse"
+  },
+  {
+    "text": "My neighbor's elephant is very noisy",
+    "label": "elephant"
+  },
+  {
+    "text": "A spider crossed the road",
+    "label": "spider"
+  },
+  {
+    "text": "The elephant sleeps on the window",
+    "label": "elephant"
+  },
+  {
+    "text": "The horse is eating its food",
+    "label": "horse"
+  },
+  {
+    "text": "My grandmother used to have a cow",
+    "label": "cow"
+  },
+  {
+    "text": "I go to walk with my horse",
+    "label": "horse"
+  },
+  {
+    "text": "The sheep is running in the field",
+    "label": "sheep"
+  },
+  {
+    "text": "That squirrel is very friendly",
+    "label": "squirrel"
+  },
+  {
+    "text": "The butterfly has beautiful fur",
+    "label": "butterfly"
+  },
+  {
+    "text": "We visited a farm and saw a dog",
+    "label": "dog"
+  },
+  {
+    "text": "The sheep is sleeping in the sun",
+    "label": "sheep"
+  },
+  {
+    "text": "My sister wants to buy a elephant",
+    "label": "elephant"
+  },
+  {
+    "text": "The butterfly is an endangered species",
+    "label": "butterfly"
+  },
+  {
+    "text": "The cow is running in the field",
+    "label": "cow"
+  },
+  {
+    "text": "The elephant made a strange noise",
+    "label": "elephant"
+  },
+  {
+    "text": "I go to walk with my dog",
+    "label": "dog"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "My sister wants to buy a squirrel",
+    "label": "squirrel"
+  },
+  {
+    "text": "The dog was running very fast",
+    "label": "dog"
+  },
+  {
+    "text": "My friend has a pet sheep",
+    "label": "sheep"
+  },
+  {
+    "text": "The sheep is an endangered species",
+    "label": "sheep"
+  },
+  {
+    "text": "I took a picture of a horse",
+    "label": "horse"
+  },
+  {
+    "text": "We have a dog at home",
+    "label": "dog"
+  },
+  {
+    "text": "The chiken is eating its food",
+    "label": "chiken"
+  },
+  {
+    "text": "I dreamed about a elephant last night",
+    "label": "elephant"
+  },
+  {
+    "text": "Scientists discovered a new species of cow",
+    "label": "cow"
+  },
+  {
+    "text": "Look at that sheep over there!",
+    "label": "sheep"
+  }
+]
