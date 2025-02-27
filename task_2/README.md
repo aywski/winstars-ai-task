@@ -17,7 +17,7 @@ git clone https://github.com/aywski/winstars-ai-task
 ```
 2. Create a virtual environment: 
 ```bash
-cd task2
+cd task_2
 python -m venv .venv
 .venv\Scripts\activate    # on Windows 
 source .venv/bin/activate   # on Linux
