@@ -4,3 +4,6 @@ This project includes 2 tasks covering Computer Vision and NLP pipelines, MNIST 
 
 - `Task 1` - Image Classification and OOP
 - `Task 2` - Named Entity Recognition and Animal Classification Pipeline
+
+#### Developed By
+__Sahalianov Arsenii__ for Winstars AI

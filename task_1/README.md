@@ -55,3 +55,6 @@ task_1/
 - __TensorFlow__
 - numpy, scikit-learn, matplotlib
 - Python 3.12.4
+
+## Developed By
+__Sahalianov Arsenii__ for Winstars AI 
